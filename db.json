@@ -1,0 +1,30 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Harini Gurram",
+      "email": "harini@valuelabs.com",
+      "phone": "9999999808"
+    },
+    {
+      "id": 6,
+      "name": "Lavanya m",
+      "email": "lavanya@gmail.com",
+      "phone": "98232345670"
+    },
+    {
+      "name": "Madhavi",
+      "email": "madhavi2002@gmail.com",
+      "phone": "9848032202",
+      "active": true,
+      "id": 7
+    },
+    {
+      "name": "Cherry",
+      "email": "cherry@gmail.com",
+      "phone": "98776654333",
+      "active": true,
+      "id": 8
+    }
+  ]
+}
